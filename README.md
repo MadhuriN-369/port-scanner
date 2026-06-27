@@ -7,7 +7,7 @@
 
 Installation
 
-Clone the repository: git clone https://github.com/viepaix/PortScanner.git cd cpp-port-scanner
+Clone the repository: git clone https://github.com/MadhuriN-369/port-scanner.git cd cpp-port-scanner
 Compile the code: g++ -o portscanner portScanner.cpp -pthread
 Run the scanner: sudo ./portscanner
 🖥️ Supported Platforms Linux - Fully supported with color and threading optimizations.
